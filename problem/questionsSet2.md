@@ -18,7 +18,7 @@ Given two strings reverse, consider the second string as sequence of characters/
 __Eg.__
 
 * _Input_: `A small man can cast a very big shadow.`, `mtd`
-* Intermediate:
-    * A s`m`all `m`an can cas`t` a very big sha`d`ow.
-    * s A`m` lla`m`sac nac na`t`ahs gib yrev a `d`.wo
 *  Output : `s Am llamsac nac natahs gib yrev a d.wo`
+* _Highlighted delimeters_:
+    * _Before reversal_: A s`m`all `m`an can cas`t` a very big sha`d`ow.
+    * _After reversal_: s A`m` lla`m`sac nac na`t`ahs gib yrev a `d`.wo
