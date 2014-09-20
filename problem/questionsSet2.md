@@ -13,7 +13,7 @@ __Eg.__
 
 # Question 2
 
-Given two strings reverse, consider the second string as sequence of characters/deleimeters (partition points) and reverse each partition of the first string.
+Given two strings, consider the second string as sequence of characters/deleimeters (partition points) and reverse each partition of the first string.
 
 __Eg.__
 
