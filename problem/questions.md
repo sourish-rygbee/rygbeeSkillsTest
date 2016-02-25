@@ -1,6 +1,6 @@
 # Question 1
 
-Given a string remove the dulicate characters from it keeping the original order.
+Given a string remove the duplicate characters from it keeping the original order.
 
 * _Input_: String
 * _Output_: Remove all duplicate letters
